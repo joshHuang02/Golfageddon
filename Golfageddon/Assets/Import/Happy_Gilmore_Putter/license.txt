@@ -1,0 +1,11 @@
+Model Information:
+* title:	Happy Gilmore Putter
+* source:	https://sketchfab.com/3d-models/happy-gilmore-putter-a18b89649c7b484bb193f492bcbb34a6
+* author:	Gravity Jack (https://sketchfab.com/gravityjack)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Happy Gilmore Putter" (https://sketchfab.com/3d-models/happy-gilmore-putter-a18b89649c7b484bb193f492bcbb34a6) by Gravity Jack (https://sketchfab.com/gravityjack) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

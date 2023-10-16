@@ -1,0 +1,45 @@
+<libraries>
+  <library
+      name="C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+      jars="C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\340f074e7db3288a31082b44e1756bf9\transformed\out\jars\classes.jar;C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\340f074e7db3288a31082b44e1756bf9\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\340f074e7db3288a31082b44e1756bf9\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name=":OVRPlugin:@aar"
+      jars="C:\Users\Josh Huang\.gradle\caches\transforms-3\73fc14940d732a79bf843009165548dd\transformed\OVRPlugin\jars\classes.jar"
+      resolved=":OVRPlugin:"
+      folder="C:\Users\Josh Huang\.gradle\caches\transforms-3\73fc14940d732a79bf843009165548dd\transformed\OVRPlugin"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\3bbc8a7ab239a54c7128747af89202d3\transformed\out\jars\classes.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\3bbc8a7ab239a54c7128747af89202d3\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>

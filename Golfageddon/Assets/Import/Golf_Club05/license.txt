@@ -1,0 +1,11 @@
+Model Information:
+* title:	Golf Club05
+* source:	https://sketchfab.com/3d-models/golf-club05-f965adcdd1b84dc6b0f144450475e17d
+* author:	yokoyah (https://sketchfab.com/yokoyah)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Golf Club05" (https://sketchfab.com/3d-models/golf-club05-f965adcdd1b84dc6b0f144450475e17d) by yokoyah (https://sketchfab.com/yokoyah) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

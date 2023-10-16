@@ -1,0 +1,11 @@
+Model Information:
+* title:	Golf Club And Ball
+* source:	https://sketchfab.com/3d-models/golf-club-and-ball-6ae0871c4cb3436db8ba214fd7707553
+* author:	Anthony Yanez (https://sketchfab.com/paulyanez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Golf Club And Ball" (https://sketchfab.com/3d-models/golf-club-and-ball-6ae0871c4cb3436db8ba214fd7707553) by Anthony Yanez (https://sketchfab.com/paulyanez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

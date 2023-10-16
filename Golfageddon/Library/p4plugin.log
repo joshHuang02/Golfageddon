@@ -1,0 +1,927 @@
+p1:-1 0 Change 119 created with 1 open file(s).
+p1:-1 0 Submitting change 119.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/ProjectSettings/VersionControlSettings.asset#5
+p1:-1 1 Change 119 submitted.
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened
+
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened\n
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened
+
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened\n
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened
+
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened\n
+e32:SSL receive failed.\nread: An existing connection was forcibly closed by the remote host. : WSAECONNRESET\n
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened
+
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened\n
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Golf_Club05\textures\Material_baseColor_0.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Happy_Gilmore_Putter\textures\happy_putter_lr_UV_defaultMat_baseColor_0.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Happy_Gilmore_Putter\textures\happy_putter_lr_UV_defaultMat_metallicRoughness_1.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Happy_Gilmore_Putter\textures\happy_putter_lr_UV_defaultMat_metallicRoughness_1_metal.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Happy_Gilmore_Putter\textures\happy_putter_lr_UV_defaultMat_metallicRoughness_1_occlusion.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Happy_Gilmore_Putter\textures\happy_putter_lr_UV_defaultMat_normal_2.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-0_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-10_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-11_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-12_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-13_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-14_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-15_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-16_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-17_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-18_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-19_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-1_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-20_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-21_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-2_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-3_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-4_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-5_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-6_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-7_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-8_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\scene\office building\Lightmap-9_comp_dir.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\A.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\cement 2.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\cement.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\concrete.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\cover tile.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Door Glass.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Door roof.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Door.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Elevator emission graphics\Elevator Light Off.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Elevator emission graphics\Elevator Light On.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Elevator.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Enery room door.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Facade 2.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Floor 2.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\grey carpet.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\lamps\emission\Lamp A OFF Emssion.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\lamps\emission\Lamp A ON Emssion.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\lamps\emission\Lamp B OFF emission.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\lamps\emission\Lamp B ON emission.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\lamps\emission\Lamp C OFF emission.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\lamps\emission\Lamp C ON emission.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\lamps\Lamp A.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\lamps\Lamp B.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\lamps\Lamp C.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Marmor floor.jpg.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\marmour.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\metal 1.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\natur wood.jpg.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\out facade 1.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\plank.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\ABC puzzle floor.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\bottle.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\carton.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Climb poles.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\clock.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Coffee Cup.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Computer chair.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\computer mouse.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Computer.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\conference table.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\couch office.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Cupboard Kitchen.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Cupboard.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\exit sign.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\File box Blue.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\File box grey.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\file cupboard 2.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\File cupboard.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\filing A.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\filing B.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\folder black.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\folder Blue.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\folder red.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Fridge.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Keyboard.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Kindergarten carpet.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Kindergarten chair.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Kindergarten Cupboard A.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Kindergarten cupboard B.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Kindergarten picture wall.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Kindergarten table.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Kitchen Chair B.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Kitchen oven.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Kitchen Sink.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Kitchen Table A.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Kitchen Table B.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Little cactus.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\lobby table.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Locker.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Mattress.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Metal cupboard.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\note block.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Office chair.001.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Office chair.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Office table 2.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Office table.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\PaperBox.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\partition wall.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\pen holder.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Phone B.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\phone.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\plant 1.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Plant 2.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Plant 3.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Printer A.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\securety computer screen.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Securety desk EMISSION OFF.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Securety desk EMISSION ON.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Securety desk.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Server.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\shelving A.001.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Sign securety only.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Sink.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Storage box Blue.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Storage box Grey.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Storage box Red.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\storage room.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Table.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\toilet cabine.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Toilet sign.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\toilet.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Toiletpaper.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Trash bin.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Urinal wall.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\urinal.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\Ventilation.001.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Props\used\water dispenser.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Railing.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\reception.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\roof 1.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\roof 2.jpg.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\showfloor.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\toilet floor.jpg.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\toilet wall.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\Ventilation.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\Office building\textures\white wall.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\textures\01_-_Default_baseColor_0.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\textures\07_-_Default_baseColor_1.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\textures\08_-_Default_baseColor_3.png.meta: The system cannot find the file specified. 
+
+chmod: C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Assets\Import\textures\13_-_Default_baseColor_2.png.meta: The system cannot find the file specified. 
+
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Golf_Club05\\textures\\Material_baseColor_0.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Happy_Gilmore_Putter\\textures\\happy_putter_lr_UV_defaultMat_baseColor_0.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Happy_Gilmore_Putter\\textures\\happy_putter_lr_UV_defaultMat_metallicRoughness_1.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Happy_Gilmore_Putter\\textures\\happy_putter_lr_UV_defaultMat_metallicRoughness_1_metal.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Happy_Gilmore_Putter\\textures\\happy_putter_lr_UV_defaultMat_metallicRoughness_1_occlusion.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Happy_Gilmore_Putter\\textures\\happy_putter_lr_UV_defaultMat_normal_2.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-0_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-10_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-11_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-12_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-13_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-14_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-15_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-16_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-17_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-18_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-19_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-1_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-20_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-21_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-2_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-3_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-4_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-5_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-6_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-7_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-8_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\scene\\office building\\Lightmap-9_comp_dir.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\A.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Door Glass.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Door roof.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Door.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Elevator emission graphics\\Elevator Light Off.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Elevator emission graphics\\Elevator Light On.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Elevator.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Enery room door.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Facade 2.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Floor 2.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Marmor floor.jpg.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\ABC puzzle floor.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Climb poles.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Coffee Cup.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Computer chair.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Computer.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Cupboard Kitchen.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Cupboard.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\File box Blue.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\File box grey.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\File cupboard.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Fridge.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Keyboard.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Kindergarten Cupboard A.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Kindergarten carpet.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Kindergarten chair.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Kindergarten cupboard B.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Kindergarten picture wall.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Kindergarten table.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Kitchen Chair B.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Kitchen Sink.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Kitchen Table A.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Kitchen Table B.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Kitchen oven.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Little cactus.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Locker.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Mattress.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Metal cupboard.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Office chair.001.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Office chair.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Office table 2.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Office table.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\PaperBox.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Phone B.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Plant 2.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Plant 3.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Printer A.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Securety desk EMISSION OFF.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Securety desk EMISSION ON.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Securety desk.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Server.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Sign securety only.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Sink.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Storage box Blue.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Storage box Grey.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Storage box Red.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Table.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Toilet sign.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Toiletpaper.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Trash bin.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Urinal wall.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\Ventilation.001.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\bottle.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\carton.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\clock.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\computer mouse.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\conference table.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\couch office.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\exit sign.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\file cupboard 2.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\filing A.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\filing B.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\folder Blue.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\folder black.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\folder red.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\lobby table.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\note block.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\partition wall.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\pen holder.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\phone.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\plant 1.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\securety computer screen.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\shelving A.001.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\storage room.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\toilet cabine.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\toilet.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\urinal.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Props\\used\\water dispenser.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Railing.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\Ventilation.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\cement 2.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\cement.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\concrete.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\cover tile.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\grey carpet.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\lamps\\Lamp A.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\lamps\\Lamp B.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\lamps\\Lamp C.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\lamps\\emission\\Lamp A OFF Emssion.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\lamps\\emission\\Lamp A ON Emssion.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\lamps\\emission\\Lamp B OFF emission.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\lamps\\emission\\Lamp B ON emission.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\lamps\\emission\\Lamp C OFF emission.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\lamps\\emission\\Lamp C ON emission.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\marmour.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\metal 1.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\natur wood.jpg.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\out facade 1.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\plank.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\reception.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\roof 1.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\roof 2.jpg.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\showfloor.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\toilet floor.jpg.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\toilet wall.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\Office building\\textures\\white wall.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\textures\\01_-_Default_baseColor_0.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\textures\\07_-_Default_baseColor_1.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\textures\\08_-_Default_baseColor_3.png.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Assets\\Import\\textures\\13_-_Default_baseColor_2.png.meta: The system cannot find the file specified. \n
+e32:SSL receive failed.\nread: An existing connection was forcibly closed by the remote host. : WSAECONNRESET\n
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened
+
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened\n
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened
+
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened\n
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened
+
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened\n
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened
+
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened\n
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened
+
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened\n
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened
+
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened\n
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened
+
+//depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened
+
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png - can't add exclusive file already opened\n
+w1://depot/IDeATe/courses/fall2023/53451/teams/sunnytm/SunnyTM-main/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png - can't add exclusive file already opened\n
+Path 'C:/Users/Josh Huang/Documents/GitHub/Golfageddon/Golfageddon\testForProjectRootMapping' is not under client's root 'C:\Users\Josh Huang\Documents\Perforce'.
+
+Error: Path 'C:/Users/Josh Huang/Documents/GitHub/Golfageddon/Golfageddon\testForProjectRootMapping' is not under client's root 'C:\Users\Josh Huang\Documents\Perforce'.
+
+e32:Path 'C:/Users/Josh Huang/Documents/GitHub/Golfageddon/Golfageddon\\testForProjectRootMapping' is not under client's root 'C:\\Users\\Josh Huang\\Documents\\Perforce'.\n
+Path 'C:/Users/Josh Huang/Documents/GitHub/Golfageddon/Golfageddon\testForProjectRootMapping' is not under client's root 'C:\Users\Josh Huang\Documents\Perforce'.
+
+Error: Path 'C:/Users/Josh Huang/Documents/GitHub/Golfageddon/Golfageddon\testForProjectRootMapping' is not under client's root 'C:\Users\Josh Huang\Documents\Perforce'.
+
+e32:Path 'C:/Users/Josh Huang/Documents/GitHub/Golfageddon/Golfageddon\\testForProjectRootMapping' is not under client's root 'C:\\Users\\Josh Huang\\Documents\\Perforce'.\n

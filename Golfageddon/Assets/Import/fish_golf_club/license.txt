@@ -1,0 +1,11 @@
+Model Information:
+* title:	fish golf club
+* source:	https://sketchfab.com/3d-models/fish-golf-club-71bf6edec7ac4b53b6c26c47bbc5c2e2
+* author:	jalee50 (https://sketchfab.com/jalee50)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "fish golf club" (https://sketchfab.com/3d-models/fish-golf-club-71bf6edec7ac4b53b6c26c47bbc5c2e2) by jalee50 (https://sketchfab.com/jalee50) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

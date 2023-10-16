@@ -1,0 +1,4 @@
+#Fri Oct 13 06:42:06 EDT 2023
+base.0=C\:\\Users\\Josh Huang\\Documents\\Perforce\\IDeATe\\courses\\fall2023\\53451\\teams\\sunnytm\\SunnyTM-main\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

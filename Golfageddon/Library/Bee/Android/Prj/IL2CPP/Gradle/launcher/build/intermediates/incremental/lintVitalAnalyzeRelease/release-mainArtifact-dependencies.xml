@@ -1,0 +1,21 @@
+<dependencies>
+  <compile
+      roots="C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release">
+    <dependency
+        name="C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release,__local_aars__:C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,:OVRPlugin:@aar,C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release">
+    <dependency
+        name="C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"/>
+    <dependency
+        name=":OVRPlugin:@aar"/>
+    <dependency
+        name="C:\Users\Josh Huang\Documents\Perforce\IDeATe\courses\fall2023\53451\teams\sunnytm\SunnyTM-main\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+        simpleName="Gradle.unityLibrary:xrmanifest.androidlib"/>
+  </package>
+</dependencies>
